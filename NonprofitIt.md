@@ -7,13 +7,9 @@ author: Markus Dale, medale@gmail.com
 date: May 2025
 ---
 
-# Introduction
-![](graphics/icicles.jpg){width=50%, height=95%}
-
-# Volunteer IT work - Ora Lee Smith Cancer Research
-![](graphics/oralee.png)
-
 # Ora Lee Volunteer IT work
+:::::::::::::: {.columns}
+::: {.column width="70%" align=top}
 * Google Workspace admin
      * Email/groups, Google Meet
      * Shared documents
@@ -21,26 +17,96 @@ date: May 2025
 * Amazon Web Services (AWS)
      * Wordpress on virtual machine
 * Microsoft Office
-* Salesforce - customer/donor relationship management (CRM)
+* Salesforce CRM
 * Mobile Cause Admin (now Ora Lee uses zeffy.com)
+:::
+::: {.column width="30%" align=top}
+![](graphics/oralee.png)
+:::
+::::::::::::::
 
-# Google Workspace
+# Are you currently...?
+![](graphics/raised-hands-ai.png)
+
+# Google For Nonprofits
+:::::::::::::: {.columns}
+::: {.column width="70%" align=top}
 * https://www.google.com/nonprofits/
 * Google Workspace
-     * Institutional Gmail, Calendar, Google Meet, Google Drive
+* Google Ad Grants
+* YouTube Nonprofit
+* Google Earth and Google Maps
+:::
+::: {.column width="30%" align=top}
+![](graphics/google-nonprofit-main.png)
+:::
+::::::::::::::
 
-# Google Ad Grants
+# Google Workspace
+:::::::::::::: {.columns}
+::: {.column width="70%" align=top}
+* https://www.google.com/nonprofits/
+* Google Workspace 
+     * Institutional Gmail (@your-domain), Calendar
+     * Google Meet - up to 150 participants
+     * Google Drive - 100TB of shared storage
+     * Docs/Sheets/Slides
+     * Keep
+     * Sites/Forms
+:::
+::: {.column width="30%" align=top}
+![](graphics/google-workspace.png)
+:::
+::::::::::::::
+
+# Google Ads Grants
+:::::::::::::: {.columns}
+::: {.column width="70%" align=top}
 * Up to $10,000/month credit
 * Drive traffic to your website
 * Google Analytics - analyze web site traffic
+:::
+::: {.column width="30%" align=top}
+![](graphics/google-ads.png)
+:::
+::::::::::::::
+
+# Google Maps
+![](graphics/google-maps.png){width=95%, height=95%}
+
+# Google Earth
+![](graphics/google-earth.png){width=95%, height=95%}
+
+# Google for Nonprofits Sign Up
+![](graphics/google-nonprofit-signup.png)
 
 # Microsoft
-* [https://nonprofit.microsoft.com/en-us/getting-started](https://nonprofit.microsoft.com/en-us/getting-started)
+* [https://nonprofit.microsoft.com/](https://nonprofit.microsoft.com/)
 * Microsoft 365 for nonprofits
-* Azure $2000 grant
-* Dynamics 365 Business Central (CRM - $28/registered nonprofit user)
+* Azure $2000 grant - cloud services ("rent someone else's computer")
+* Dynamics 365 Business Central
 * Advanced security - Microsoft AccountGuard for M365
+
+# Microsoft for Nonprofits Sign Up
+![](graphics/microsoft-nonprofit.png)
+
+# Amazon Web Services (AWS)
+:::::::::::::: {.columns}
+::: {.column width="70%" align=top}
+* AWS Imagine Grant
+* AWS Nonprofit Credit Program (via TechSoup)
+* https://www.techsoup.org/amazon-web-services
+:::
+::: {.column width="30%" align=top}
+![](graphics/aws-imagine.png)
+:::
+::::::::::::::
 
 # Techsoup
 ![](graphics/techsoup.png)
 
+# Communications: Slack
+![](graphics/dale-slack.png)
+
+# Slack Sign Up
+![](graphics/slack-signup.png)

@@ -1,18 +1,10 @@
-# Introduction
-* Markus Dale, Software Developer, BlueHalo
-* Cloud - AWS Certified Solutions Architect (2016)
-* Some Azure/GCP
-* Certified Kubernetes Application Developer (CKAD 2023)
-* Quick room intro - how do you use IT (website, email, other?)
-     * Domain/email/docs etc.
-
-# Volunteer IT work - Ora Lee Smith Cancer Research
-* Dr. Green, physicist - nanoparticles/laser
-* Asst Professor, Dept of Surgery Morehouse School of Medicine
-• Director, NanoBioPhotonics and Targeted Cancer Therapeutics Laboratory
-* Volunteer IT, Ora Lee Smith Cancer Research Foundation 2019-2021
+# Introduction on header slide
+* Markus Dale, Software Developer, BlueHalo (see next slide on volunteer)
 
 # Ora Lee Volunteer IT work
+* Dr. Green, physicist - nanoparticles/laser
+* Asst Professor, Dept of Surgery Morehouse School of Medicine
+* Volunteer IT, Ora Lee Smith Cancer Research Foundation 2019-2021
 * Google Workspace admin
      * Email/groups, Google Meet
      * Shared documents
@@ -23,22 +15,56 @@
 * Salesforce - customer/donor relationship management (CRM)
 * Mobile Cause Admin (now Ora Lee uses zeffy.com donation)
 
+# Are you currently...?
+* Using any non-profit tech grants/discounts?
+* Host a website? If so, how?
+* Using Donor/Customer Relationship Management (CRM)?
+* Using tools for internal communication? Email, Slack?
+* Using Task tracking tools? Trello, JIRA, monday.com...?
+* Using an Search Engine Optimization (SEO)/Advertising (Google Ads)?
+
+# Google For Nonprofits
+* https://www.google.com/nonprofits/
+* Google Workspace
+* Google Ad Grants
+* YouTube Nonprofit
+* Google Earth and Google Maps
+
 # Google Workspace
 * https://www.google.com/nonprofits/
-* Google Workspace - Gmail, Calendar, Meet, Chat, Drive, Docs, Sheets
-     * Create groups, shared folders
-* https://www.google.com/nonprofits/offerings/workspace/
-* https://www.google.com/nonprofits/offerings/google-ad-grants/
-* YouTube - https://www.google.com/nonprofits/offerings/youtube-nonprofit-program/
-* Google Earth and Google Maps - https://www.google.com/nonprofits/offerings/google-earth-and-maps/
-* GCP research credits - https://edu.google.com/programs/credits/research/?modal_active=none
+* Google Workspace 
+     * Institutional Gmail (@<your-domain>), Calendar
+     * Google Meet - up to 150 participants
+     * Google Drive - 100TB of shared storage
+     * Docs/Sheets/Slides
+     * Keep
+     * Sites/Forms
 
 # Google Ad Grants
-https://www.coursera.org/projects/google-ads-beginner
+* Up to $10,000/month credit
+* Drive traffic to your website
+* Google Analytics - analyze web site traffic
+
+# Google Maps
+* Google Maps Platform credits to nonprofits
+* Custom maps/visualizations (e.g. donor map)
+* Display web geo data
+
+# Google Earth
+* Google Earth - create movies (zoom in on location, overlays with KLM files...)
+* Historical comparisons
+
+# Google for Nonprofits Sign Up
+* Scroll down on https://www.google.com/nonprofits/
+* IRS exempt 501(c)(3) - need Employee Identification Number (EIN)
+* Search tax exempt: https://apps.irs.gov/app/eos/
 
 # Microsoft
-* If your org has a Microsoft 365 business account, and you're the admin, you can convert that account to a nonprofit status
-* Organization POC - verified email
+* [https://nonprofit.microsoft.com/](https://nonprofit.microsoft.com/)
+* Microsoft 365 for nonprofits - can convert existing account
+* Azure $2000 grant - cloud services ("rent someone else's computer")
+* Dynamics 365 Business Central (CRM - $28/month/registered nonprofit user)
+* Advanced security - Microsoft AccountGuard for M365
 
 * https://www.microsoft.com/en-us/corporate-responsibility/digital-skills - Digital skills/nonprofits
 * https://learn.microsoft.com/en-us/training/topics/nonprofits
@@ -46,15 +72,18 @@ https://www.coursera.org/projects/google-ads-beginner
 * https://www.microsoft.com/en-us/nonprofits/data-security
      * https://accountguard.microsoft.com/
 
-# AWS
+# Microsoft for Nonprofits Sign Up
+* Microsoft 365 for nonprofits - can convert existing account
+
+# Amazon Web Services (AWS)
 * [Imagine Grant](https://aws.amazon.com/government-education/nonprofits/aws-imagine-grant-program/)
      * Pathfinder AI Award
      * The Go Further, Faster Award
      * The Momentum to Modernize Award
      * Examples of award winners
-* AWS Nonprofit Credit Program up to $5000 a year (via TechSoup)
+* AWS Nonprofit Credit Program $1000, $2000, $5000 a year (depending on size - via TechSoup)
 * https://www.techsoup.org/amazon-web-services
-* Amazon Lightsail?
+* Amazon Lightsail - Managed Wordpress ($5/month)
 
 # Techsoup
 * [https://www.techsoup.org/](https://www.techsoup.org/)
@@ -64,9 +93,31 @@ https://www.coursera.org/projects/google-ads-beginner
 * Foxit - PDF editing/e-signature $16
 * Hardware
 
+# Communications: Slack
+* Free, unlimited members, but retains info only 90 days
+* Images, videos, news, can pin messages to channel - intro/setup
+* Use Google Drive for permanent info
+
+# Slack Sign Up
+* Free version - create new workspace (unique name)
+
+# Trello
+* To Do Management as Kanban Boards
+
+# Links and Resources
+* https://www.coursera.org/projects/google-ads-beginner
+* [Create movie in Google Earth](https://www.youtube.com/watch?v=OkZtPVpoX7M)
+* Find IRS EIN for tax exempt: https://apps.irs.gov/app/eos/
+* https://aws.amazon.com/lightsail/projects/wordpress/
+* https://aws.amazon.com/lightsail/pricing/
+
 # TODO
 * Internal Revenue Service (IRS) as exempt from federal income tax under Section 501(c)(3)
 * IRS EIN Number, https://apps.irs.gov/app/eos/ Employer Identification Number
 * Zeffy.com donation (Ora Lee switched to this)
 * https://www.givesmart.com/ (formerly mobile cause)
+* Let’s Encrypt is a nonprofit certificate authority that provides free SSL certificates to help websites create secure, encrypted connections. Max 90 days, auto-renew
+* https://www.bluehost.com/blog/how-to-get-free-ssl-wordpress/
+* Slack - https://slack.com/help/articles/204368833-Apply-for-the-Slack-for-Nonprofits-discount
+* Trello - free version up to 10 people
 
