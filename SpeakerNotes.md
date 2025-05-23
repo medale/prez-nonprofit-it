@@ -8,7 +8,7 @@
 * Google Workspace admin
      * Email/groups, Google Meet
      * Shared documents
-     * Internal web pages/Who's who?
+     * Internal web pages/Who's who? (Google Sites)
 * Amazon Web Services (AWS)
      * Wordpress on virtual machine
 * Microsoft Office
@@ -101,8 +101,10 @@
 # Slack Sign Up
 * Free version - create new workspace (unique name)
 
-# Trello
+# Trello - Task Tracker
 * To Do Management as Kanban Boards
+
+# Atlassian - Jira, Confluence...
 
 # Links and Resources
 * https://www.coursera.org/projects/google-ads-beginner

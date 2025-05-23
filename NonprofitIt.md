@@ -109,4 +109,16 @@ date: May 2025
 ![](graphics/dale-slack.png)
 
 # Slack Sign Up
+:::::::::::::: {.columns}
+::: {.column width="50%" align=top}
 ![](graphics/slack-signup.png)
+:::
+::: {.column width="50%" align=top}
+![](graphics/slack-nonprofit.png)
+:::
+::::::::::::::
+
+# Trello - Task Tracker
+![](graphics/trello.png)
+
+# Atlassian - Jira, Confluence...
