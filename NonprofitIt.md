@@ -4,7 +4,7 @@ header-includes:
  - \DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,commandchars=\\\{\}}
 title: "IT Resources for Nonprofits"
 author: Markus Dale, medale@gmail.com
-date: May 2025
+date: June 2025
 ---
 
 # Ora Lee Volunteer IT work
@@ -26,7 +26,22 @@ date: May 2025
 ::::::::::::::
 
 # Are you currently...?
-![](graphics/raised-hands-ai.png)
+![](graphics/raised-hands-ai.png){width=95%, height=95%}
+
+# Nonprofit IT Software examples
+:::::::::::::: {.columns}
+::: {.column width="70%" align=top}
+* External
+     * Web page, mobile app, donation software, emails, Search Engine Optimization (SEO)...
+* Internal
+     * Email, shared drive, internal web pages/wiki, task tracking, donor management...
+* Computational
+     * Data analysis, machine learning model development, generative AI/large language models (LLMs)...
+:::
+::: {.column width="30%" align=top}
+![](graphics/it-tools.png){width=95%, height=85%}
+:::
+::::::::::::::
 
 # Google For Nonprofits
 :::::::::::::: {.columns}
@@ -45,14 +60,12 @@ date: May 2025
 # Google Workspace
 :::::::::::::: {.columns}
 ::: {.column width="70%" align=top}
-* https://www.google.com/nonprofits/
-* Google Workspace 
-     * Institutional Gmail (@your-domain), Calendar
-     * Google Meet - up to 150 participants
-     * Google Drive - 100TB of shared storage
-     * Docs/Sheets/Slides
-     * Keep
-     * Sites/Forms
+* Institutional Gmail (@your-domain), Calendar
+* Google Meet - up to 150 participants
+* Google Drive - 100TB of shared storage
+* Docs/Sheets/Slides
+* Keep
+* Sites/Forms
 :::
 ::: {.column width="30%" align=top}
 ![](graphics/google-workspace.png)
@@ -122,3 +135,24 @@ date: May 2025
 ![](graphics/trello.png)
 
 # Atlassian - Jira, Confluence...
+:::::::::::::: {.columns}
+::: {.column width="50%" align=top}
+![](graphics/jira.png)
+:::
+::: {.column width="50%" align=top}
+![](graphics/confluence.png)
+:::
+::::::::::::::
+
+# Open Source Software
+:::::::::::::: {.columns}
+::: {.column width="70%" align=top}
+* Libre Office - Word processor, spreadsheet, presentations
+* GIMP - Open source image creation/manipulation
+* OpenShot - Video Editor
+* Audacity - Audio Editor
+:::
+::: {.column width="30%" align=top}
+![](graphics/oss.png)
+:::
+::::::::::::::

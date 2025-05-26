@@ -21,24 +21,31 @@
 * Using Donor/Customer Relationship Management (CRM)?
 * Using tools for internal communication? Email, Slack?
 * Using Task tracking tools? Trello, JIRA, monday.com...?
-* Using an Search Engine Optimization (SEO)/Advertising (Google Ads)?
+* Using Search Engine Optimization (SEO)/Advertising (Google Ads)?
+
+# Nonprofit IT Software examples
+* External
+     * Web page, mobile app, donation software, emails, Search Engine Optimization (SEO)...
+* Internal
+     * Email, shared drive, internal web pages/wiki, task tracking, donor management...
+* Computational
+     * Data analysis, machine learning model development, generative AI/large language models (LLMs)...
+     * Gen AI/LLM - good for starts on grant writing, RFPs, emails, research
 
 # Google For Nonprofits
 * https://www.google.com/nonprofits/
-* Google Workspace
+* Google Workspace (details on next slide)
 * Google Ad Grants
 * YouTube Nonprofit
 * Google Earth and Google Maps
 
 # Google Workspace
-* https://www.google.com/nonprofits/
-* Google Workspace 
-     * Institutional Gmail (@<your-domain>), Calendar
-     * Google Meet - up to 150 participants
-     * Google Drive - 100TB of shared storage
-     * Docs/Sheets/Slides
-     * Keep
-     * Sites/Forms
+* Institutional Gmail (@<your-domain>), Calendar
+* Google Meet - up to 150 participants
+* Google Drive - 100TB of shared storage
+* Docs/Sheets/Slides
+* Keep
+* Sites/Forms
 
 # Google Ad Grants
 * Up to $10,000/month credit
@@ -48,7 +55,7 @@
 # Google Maps
 * Google Maps Platform credits to nonprofits
 * Custom maps/visualizations (e.g. donor map)
-* Display web geo data
+* Display web geo data (KML files)
 
 # Google Earth
 * Google Earth - create movies (zoom in on location, overlays with KLM files...)
@@ -103,8 +110,19 @@
 
 # Trello - Task Tracker
 * To Do Management as Kanban Boards
+* Free version up to 10 people
 
 # Atlassian - Jira, Confluence...
+* https://www.atlassian.com/teams/nonprofits/discount-pricing
+* Jira: Project management/ticketing system, burndown charts, Kanban board
+* Confluence: Easy-to-use wiki, good search, create/search knowledge base
+
+# Open Source Software
+* Libre Office - Word processor (writer), spreadsheet (calc), presentations (impress), draw, math, base
+     * https://www.libreoffice.org/
+* GIMP - Open source image creation/manipulation (OSS Photoshop)
+* OpenShot - Video Editor
+* Audacity - Audio Editor
 
 # Links and Resources
 * https://www.coursera.org/projects/google-ads-beginner
