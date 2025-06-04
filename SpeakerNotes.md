@@ -114,8 +114,21 @@
 
 # Atlassian - Jira, Confluence...
 * https://www.atlassian.com/teams/nonprofits/discount-pricing
+* Pricing: Free up to 10 people
 * Jira: Project management/ticketing system, burndown charts, Kanban board
+     * 20 people - $550/year (75% discount + 17% annual discount)
 * Confluence: Easy-to-use wiki, good search, create/search knowledge base
+     * 20 people - $400/year
+
+# Salesforce Nonprofit Cloud CRM
+* Customer Relationship Management (CRM)
+     * Contact information
+     * Contact history
+     * Track donations
+     * Dashboards - key information, recent contacts, new contacts... (customizable)
+* Power of Us Program - 10 Nonprofit Cloud licenses for free
+* Nonprofit Cloud Enterprise discount - $60/user/month (annual billing)
+* Free learning via https://trailhead.salesforce.com/
 
 # Open Source Software
 * Libre Office - Word processor (writer), spreadsheet (calc), presentations (impress), draw, math, base
@@ -123,6 +136,13 @@
 * GIMP - Open source image creation/manipulation (OSS Photoshop)
 * OpenShot - Video Editor
 * Audacity - Audio Editor
+
+# AI Resources
+* e.g. NotebookLM - Google
+* Upload documents - ask questions about documents, summary, audio overview
+* Help with grant writing (ChatGPT, Gemma etc.)
+
+# Questions
 
 # Links and Resources
 * https://www.coursera.org/projects/google-ads-beginner

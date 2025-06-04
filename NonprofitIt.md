@@ -144,6 +144,19 @@ date: June 2025
 :::
 ::::::::::::::
 
+# Salesforce Nonprofit Cloud CRM
+:::::::::::::: {.columns}
+::: {.column width="70%" align=top}
+* Customer Relationship Management (CRM)
+* Software as a Service (SaaS) - Cloud
+* 10 Salesforce Nonprofit Cloud at no cost
+* Free learning via https://trailhead.salesforce.com/
+:::
+::: {.column width="30%" align=top}
+![](graphics/salesforce.png)
+:::
+::::::::::::::
+
 # Open Source Software
 :::::::::::::: {.columns}
 ::: {.column width="70%" align=top}
@@ -156,3 +169,8 @@ date: June 2025
 ![](graphics/oss.png)
 :::
 ::::::::::::::
+
+# AI Resources
+![](graphics/ai.png)
+
+# Questions?
