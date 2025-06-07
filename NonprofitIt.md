@@ -84,6 +84,20 @@ date: June 2025
 :::
 ::::::::::::::
 
+# YouTube Nonprofit
+:::::::::::::: {.columns}
+::: {.column width="70%" align=top}
+* Link Anywhere cards in videos
+* YouTube Giving
+     * Must be in https://www.guidestar.org/
+     * US Nonprofits only
+* Creator Academy
+:::
+::: {.column width="30%" align=top}
+![](graphics/youtube.png)
+:::
+::::::::::::::
+
 # Google Maps
 ![](graphics/google-maps.png){width=95%, height=95%}
 
@@ -173,4 +187,8 @@ date: June 2025
 # AI Resources
 ![](graphics/ai.png)
 
+# Colon Cancer Screening
+![](graphics/coloncancer.png)
+
 # Questions?
+![](graphics/question.png)

@@ -1,14 +1,15 @@
 # Introduction on header slide
-* Markus Dale, Software Developer, BlueHalo (see next slide on volunteer)
+* Markus Dale, Software Developer, AV (former AeroVironment, former BlueHalo, former Asymmetrik)
+* See next slide on non-profit volunteer
 
 # Ora Lee Volunteer IT work
-* Dr. Green, physicist - nanoparticles/laser
+* Dr. Nicole Green, physicist - nanoparticles/laser
 * Asst Professor, Dept of Surgery Morehouse School of Medicine
 * Volunteer IT, Ora Lee Smith Cancer Research Foundation 2019-2021
 * Google Workspace admin
      * Email/groups, Google Meet
      * Shared documents
-     * Internal web pages/Who's who? (Google Sites)
+     * Internal web pages/Who's Who? (Google Sites)
 * Amazon Web Services (AWS)
      * Wordpress on virtual machine
 * Microsoft Office
@@ -24,13 +25,13 @@
 * Using Search Engine Optimization (SEO)/Advertising (Google Ads)?
 
 # Nonprofit IT Software examples
-* External
+* External - interact with clients/sponsors
      * Web page, mobile app, donation software, emails, Search Engine Optimization (SEO)...
-* Internal
+* Internal - enhance organization
      * Email, shared drive, internal web pages/wiki, task tracking, donor management...
-* Computational
-     * Data analysis, machine learning model development, generative AI/large language models (LLMs)...
      * Gen AI/LLM - good for starts on grant writing, RFPs, emails, research
+* Computational - process data
+     * Data analysis, machine learning model development, generative AI/large language models (LLMs)...
 
 # Google For Nonprofits
 * https://www.google.com/nonprofits/
@@ -51,6 +52,14 @@
 * Up to $10,000/month credit
 * Drive traffic to your website
 * Google Analytics - analyze web site traffic
+
+# YouTube Nonprofit
+* Link Anywhere cards in videos - fundraising, info
+* YouTube Giving
+     * Must be in https://www.guidestar.org/
+     * US Nonprofits only
+     * See link in resources about FAQs
+* Creator Academy - learn about making videos
 
 # Google Maps
 * Google Maps Platform credits to nonprofits
@@ -107,6 +116,7 @@
 
 # Slack Sign Up
 * Free version - create new workspace (unique name)
+* Free for up to 250, 85% discount for more (pro plan)
 
 # Trello - Task Tracker
 * To Do Management as Kanban Boards
@@ -140,9 +150,14 @@
 # AI Resources
 * e.g. NotebookLM - Google
 * Upload documents - ask questions about documents, summary, audio overview
-* Help with grant writing (ChatGPT, Gemma etc.)
+* Help with grant writing (ChatGPT, Gemini etc.)
+
+# Colon Cancer Screening
+* Average risk: 45
+* Family history, higher risk - talk to your doctor
 
 # Questions
+* ?
 
 # Links and Resources
 * https://www.coursera.org/projects/google-ads-beginner
@@ -150,14 +165,4 @@
 * Find IRS EIN for tax exempt: https://apps.irs.gov/app/eos/
 * https://aws.amazon.com/lightsail/projects/wordpress/
 * https://aws.amazon.com/lightsail/pricing/
-
-# TODO
-* Internal Revenue Service (IRS) as exempt from federal income tax under Section 501(c)(3)
-* IRS EIN Number, https://apps.irs.gov/app/eos/ Employer Identification Number
-* Zeffy.com donation (Ora Lee switched to this)
-* https://www.givesmart.com/ (formerly mobile cause)
-* Let’s Encrypt is a nonprofit certificate authority that provides free SSL certificates to help websites create secure, encrypted connections. Max 90 days, auto-renew
-* https://www.bluehost.com/blog/how-to-get-free-ssl-wordpress/
-* Slack - https://slack.com/help/articles/204368833-Apply-for-the-Slack-for-Nonprofits-discount
-* Trello - free version up to 10 people
-
+* https://support.google.com/youtube/answer/6327868?hl=en#zippy=%2Ci-am-a-nonprofit-can-i-fundraise-on-my-own-youtube-channel%2Cmy-nonprofit-is-eligible-for-youtube-giving-but-cant-be-found-or-requested-why-is-that
