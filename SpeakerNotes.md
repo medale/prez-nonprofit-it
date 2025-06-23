@@ -150,7 +150,7 @@
 # AI Resources
 * e.g. NotebookLM - Google
 * Upload documents - ask questions about documents, summary, audio overview
-* Help with grant writing (ChatGPT, Gemini etc.)
+* Help with grant writing (ChatGPT, Gemini etc.), marketing etc. (prompt library e.g https://gettimeback.withgoogle.com/) 
 
 # Colon Cancer Screening
 * Average risk: 45
@@ -166,3 +166,4 @@
 * https://aws.amazon.com/lightsail/projects/wordpress/
 * https://aws.amazon.com/lightsail/pricing/
 * https://support.google.com/youtube/answer/6327868?hl=en#zippy=%2Ci-am-a-nonprofit-can-i-fundraise-on-my-own-youtube-channel%2Cmy-nonprofit-is-eligible-for-youtube-giving-but-cant-be-found-or-requested-why-is-that
+* https://gettimeback.withgoogle.com/
